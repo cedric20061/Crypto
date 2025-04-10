@@ -1,4 +1,4 @@
-# Mission Informatique - Cryptography Project
+# Cryptography Project
 
 ## Overview
 
